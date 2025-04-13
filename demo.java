@@ -1,7 +1,7 @@
 public class demo{
     public static void main(String[] args) {
         int a[]=new int[]{10,20,30,40,50};
-        int i,j,k;
+        int i,j,k,l;
         i=j=k=0;
         i+=1;
         a[i]=a[j]+10;
